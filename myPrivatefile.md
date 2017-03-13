@@ -1,0 +1,1 @@
+# this is just a file to test and understand how gitignore works
